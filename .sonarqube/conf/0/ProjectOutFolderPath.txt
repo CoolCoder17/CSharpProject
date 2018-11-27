@@ -1,0 +1,1 @@
+C:\sonarqube\examples\sonar-scanning-examples-master\sonarqube-scanner-msbuild\CSharpProject\.sonarqube\out\0
